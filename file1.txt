@@ -1,1 +1,2 @@
 Welcome to the Git Learning!
+After learning git your Journey would be more easy .... so that you can manage your code & branches to  GitHub.com
