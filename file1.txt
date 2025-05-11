@@ -1,1 +1,1 @@
-Hey Welcome to git learning series!
+Welcome to the Git Learning!
